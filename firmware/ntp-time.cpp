@@ -1,4 +1,4 @@
-#include "Ntp-time.h"
+#include "ntp-time.h"
 
 //
 static char defaultURL[] = "time.nist.gov";
