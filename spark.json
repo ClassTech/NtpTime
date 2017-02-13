@@ -1,7 +1,0 @@
-{
-  "name": "ntp-time",
-  "author": "Douglas Johnson",
-  "license": "MIT",
-  "version": "0.0.1",
-  "description": "Keeps the Particle Time synced to NTP."
-}
